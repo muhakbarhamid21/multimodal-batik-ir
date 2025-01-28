@@ -28,9 +28,6 @@ logs/
 # Notebook checkpoints
 .ipynb_checkpoints/
 
-# Jupyter Notebook output
-*.ipynb
-
 # IDE files
 .vscode/
 .idea/
