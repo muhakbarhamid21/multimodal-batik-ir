@@ -1,0 +1,40 @@
+# Python-specific ignores
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+env/
+.venv/
+
+# Dataset files
+data/
+*.csv
+*.json
+*.zip
+*.tar.gz
+
+# Model checkpoints
+models/
+*.h5
+*.ckpt
+*.pth
+*.onnx
+
+# Logs
+*.log
+logs/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Jupyter Notebook output
+*.ipynb
+
+# IDE files
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
