@@ -7,13 +7,6 @@ __pycache__/
 env/
 .venv/
 
-# Dataset files
-data/
-*.csv
-*.json
-*.zip
-*.tar.gz
-
 # Model checkpoints
 models/
 *.h5
