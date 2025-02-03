@@ -1,102 +1,122 @@
 [
-    {
-        "Nama":"Batik Bali",
-        "Deskripsi":"Batik Bali memiliki motif rumit yang terinspirasi oleh bunga, daun, dan simbol budaya Hindu Bali. Melambangkan harmoni antara manusia, alam, dan spiritualitas, batik ini terkenal dengan warna cerahnya yang khas dari Pulau Bali.",
-        "Path":"batik-bali"
-    },
-    {
-        "Nama":"Batik Betawi",
-        "Deskripsi":"Batik Betawi memiliki motif geometris sederhana dengan warna cerah, menampilkan pola khas seperti ondel-ondel dan tanjidor. Melambangkan semangat dan keberagaman budaya, batik ini berasal dari Jakarta.",
-        "Path":"batik-betawi"
-    },
-    {
-        "Nama":"Batik Celup",
-        "Deskripsi":"Batik Celup memiliki pola abstrak dengan gradasi warna cerah yang dihasilkan melalui teknik pencelupan. Melambangkan kebebasan dan kreativitas, batik ini mencerminkan ekspresi seni modern Indonesia.",
-        "Path":"batik-celup"
-    },
-    {
-        "Nama":"Batik Cendrawasih",
-        "Deskripsi":"Batik Cendrawasih menampilkan motif burung cendrawasih yang elegan dengan kombinasi pola bunga dan warna cerah. Melambangkan keindahan dan kemewahan, batik ini mencerminkan kebanggaan budaya Papua.",
-        "Path":"batik-cendrawasih"
-    },
-    {
-        "Nama":"Batik Ceplok",
-        "Deskripsi":"Batik Ceplok memiliki pola geometris berulang seperti lingkaran dan bunga kecil dengan warna klasik. Melambangkan keseimbangan dan harmoni, batik ini merupakan warisan budaya dari Jawa Tengah.",
-        "Path":"batik-ceplok"
-    },
-    {
-        "Nama":"Batik Ciamis",
-        "Deskripsi":"Batik Ciamis memiliki motif sederhana dengan pola bunga kecil atau garis melengkung, didominasi warna pastel seperti cokelat muda. Melambangkan kesederhanaan dan keharmonisan, batik ini berasal dari Ciamis, Jawa Barat.",
-        "Path":"batik-ciamis"
-    },
-    {
-        "Nama":"Batik Garutan",
-        "Deskripsi":"Batik Garutan memiliki motif bunga, daun, atau burung dengan warna cerah seperti merah dan hijau. Melambangkan keceriaan dan keindahan alam, batik ini merupakan kekayaan budaya dari Garut, Jawa Barat.",
-        "Path":"batik-garutan"
-    },
-    {
-        "Nama":"Batik Gentongan",
-        "Deskripsi":"Batik Gentongan memiliki motif bunga besar dengan warna mencolok seperti merah dan biru. Melambangkan keberanian dan keunikan budaya, batik ini khas dari Madura, Jawa Timur.",
-        "Path":"batik-gentongan"
-    },
-    {
-        "Nama":"Batik Kawung",
-        "Deskripsi":"Batik Kawung memiliki motif lingkaran geometris menyerupai irisan kolang-kaling, disusun secara simetris. Melambangkan kesucian dan keseimbangan, batik ini merupakan warisan budaya dari Jawa Tengah.",
-        "Path":"batik-kawung"
-    },
-    {
-        "Nama":"Batik Keraton",
-        "Deskripsi":"Batik Keraton memiliki motif klasik seperti Parang dan Sawat dengan warna elegan seperti cokelat dan biru tua. Melambangkan keagungan dan kewibawaan, batik ini berasal dari keraton di Yogyakarta dan Surakarta.",
-        "Path":"batik-keraton"
-    },
-    {
-        "Nama":"Batik Lasem",
-        "Deskripsi":"Batik Lasem didominasi warna merah cerah khas dengan pola flora dan fauna yang melambangkan keberanian dan harmoni. Batik ini mencerminkan akulturasi budaya Lasem, Jawa Tengah.",
-        "Path":"batik-lasem"
-    },
-    {
-        "Nama":"Batik Megamendung",
-        "Deskripsi":"Batik Megamendung memiliki motif awan bergradasi dengan warna biru, putih, atau merah. Melambangkan kesejukan dan ketenangan, batik ini merupakan warisan budaya dari Cirebon, Jawa Barat.",
-        "Path":"batik-megamendung"
-    },
-    {
-        "Nama":"Batik Parang",
-        "Deskripsi":"Batik Parang memiliki motif garis melengkung menyerupai ombak yang tersusun diagonal. Melambangkan perjuangan tanpa henti dan kekuatan, batik ini berasal dari keraton Yogyakarta dan Surakarta.",
-        "Path":"batik-parang"
-    },
-    {
-        "Nama":"Batik Pekalongan",
-        "Deskripsi":"Batik Pekalongan memiliki pola flora dan fauna dengan warna cerah dan detail halus. Melambangkan kreativitas dan keindahan alam, batik ini mencerminkan budaya pesisir Pekalongan, Jawa Tengah.",
-        "Path":"batik-pekalongan"
-    },
-    {
-        "Nama":"Batik Priangan",
-        "Deskripsi":"Batik Priangan memiliki pola bunga kecil dan dedaunan dengan warna pastel seperti hijau dan merah muda. Melambangkan kelembutan dan kesederhanaan, batik ini khas Tasikmalaya, Jawa Barat.",
-        "Path":"batik-priangan"
-    },
-    {
-        "Nama":"Batik Sekar",
-        "Deskripsi":"Batik Sekar memiliki pola bunga yang indah dan elegan dengan warna cerah seperti merah dan kuning. Melambangkan kebahagiaan dan keharmonisan hidup, batik ini banyak ditemukan di Jawa.",
-        "Path":"batik-sekar"
-    },
-    {
-        "Nama":"Batik Sidoluhur",
-        "Deskripsi":"Batik Sidoluhur memiliki motif klasik dengan pola geometris yang anggun dan warna cokelat khas. Melambangkan harapan untuk kehidupan yang mulia, batik ini berasal dari Solo, Jawa Tengah.",
-        "Path":"batik-sidoluhur"
-    },
-    {
-        "Nama":"Batik Sidomukti",
-        "Deskripsi":"Batik Sidomukti memiliki pola bunga dan geometris dengan warna dasar cokelat muda. Melambangkan kemakmuran dan kebahagiaan, batik ini berasal dari Yogyakarta dan Surakarta.",
-        "Path":"batik-sidomukti"
-    },
-    {
-        "Nama":"Batik Sogan",
-        "Deskripsi":"Batik Sogan memiliki pola klasik dengan warna cokelat sogan khas dan motif flora. Melambangkan kebijaksanaan dan keluhuran, batik ini merupakan warisan budaya dari Solo, Jawa Tengah.",
-        "Path":"batik-sogan"
-    },
-    {
-        "Nama":"Batik Tambal",
-        "Deskripsi":"Batik Tambal memiliki pola tambalan kecil-kecil dengan motif beragam dan warna cerah. Melambangkan perbaikan dan harapan, batik ini berasal dari Jawa Tengah dan Yogyakarta.",
-        "Path":"batik-tambal"
-    }
+  {
+    "Nama": "Batik Bali",
+    "Deskripsi": "Batik Bali memiliki motif rumit yang terinspirasi oleh bunga, daun, dan simbol budaya Hindu Bali. Melambangkan harmoni antara manusia, alam, dan spiritualitas, batik ini terkenal dengan warna cerahnya yang khas dari Pulau Bali.",
+    "Path Folder": "batik-bali",
+    "Path Gambar": "batik-bali.jpg"
+  },
+  {
+    "Nama": "Batik Betawi",
+    "Deskripsi": "Batik Betawi memiliki motif geometris sederhana dengan warna cerah, menampilkan pola khas seperti ondel-ondel dan tanjidor. Melambangkan semangat dan keberagaman budaya, batik ini berasal dari Jakarta.",
+    "Path Folder": "batik-betawi",
+    "Path Gambar": "batik-betawi.jpg"
+  },
+  {
+    "Nama": "Batik Celup",
+    "Deskripsi": "Batik Celup memiliki pola abstrak dengan gradasi warna cerah yang dihasilkan melalui teknik pencelupan. Melambangkan kebebasan dan kreativitas, batik ini mencerminkan ekspresi seni modern Indonesia.",
+    "Path Folder": "batik-celup",
+    "Path Gambar": "batik-celup.jpg"
+  },
+  {
+    "Nama": "Batik Cendrawasih",
+    "Deskripsi": "Batik Cendrawasih menampilkan motif burung cendrawasih yang elegan dengan kombinasi pola bunga dan warna cerah. Melambangkan keindahan dan kemewahan, batik ini mencerminkan kebanggaan budaya Papua.",
+    "Path Folder": "batik-cendrawasih",
+    "Path Gambar": "batik-cendrawasih.jpg"
+  },
+  {
+    "Nama": "Batik Ceplok",
+    "Deskripsi": "Batik Ceplok memiliki pola geometris berulang seperti lingkaran dan bunga kecil dengan warna klasik. Melambangkan keseimbangan dan harmoni, batik ini merupakan warisan budaya dari Jawa Tengah.",
+    "Path Folder": "batik-ceplok",
+    "Path Gambar": "batik-ceplok.jpg"
+  },
+  {
+    "Nama": "Batik Ciamis",
+    "Deskripsi": "Batik Ciamis memiliki motif sederhana dengan pola bunga kecil atau garis melengkung, didominasi warna pastel seperti cokelat muda. Melambangkan kesederhanaan dan keharmonisan, batik ini berasal dari Ciamis, Jawa Barat.",
+    "Path Folder": "batik-ciamis",
+    "Path Gambar": "batik-ciamis.jpg"
+  },
+  {
+    "Nama": "Batik Garutan",
+    "Deskripsi": "Batik Garutan memiliki motif bunga, daun, atau burung dengan warna cerah seperti merah dan hijau. Melambangkan keceriaan dan keindahan alam, batik ini merupakan kekayaan budaya dari Garut, Jawa Barat.",
+    "Path Folder": "batik-garutan",
+    "Path Gambar": "batik-garutan.jpg"
+  },
+  {
+    "Nama": "Batik Gentongan",
+    "Deskripsi": "Batik Gentongan memiliki motif bunga besar dengan warna mencolok seperti merah dan biru. Melambangkan keberanian dan keunikan budaya, batik ini khas dari Madura, Jawa Timur.",
+    "Path Folder": "batik-gentongan",
+    "Path Gambar": "batik-gentongan.jpg"
+  },
+  {
+    "Nama": "Batik Kawung",
+    "Deskripsi": "Batik Kawung memiliki motif lingkaran geometris menyerupai irisan kolang-kaling, disusun secara simetris. Melambangkan kesucian dan keseimbangan, batik ini merupakan warisan budaya dari Jawa Tengah.",
+    "Path Folder": "batik-kawung",
+    "Path Gambar": "batik-kawung.jpg"
+  },
+  {
+    "Nama": "Batik Keraton",
+    "Deskripsi": "Batik Keraton memiliki motif klasik seperti Parang dan Sawat dengan warna elegan seperti cokelat dan biru tua. Melambangkan keagungan dan kewibawaan, batik ini berasal dari keraton di Yogyakarta dan Surakarta.",
+    "Path Folder": "batik-keraton",
+    "Path Gambar": "batik-keraton.jpg"
+  },
+  {
+    "Nama": "Batik Lasem",
+    "Deskripsi": "Batik Lasem didominasi warna merah cerah khas dengan pola flora dan fauna yang melambangkan keberanian dan harmoni. Batik ini mencerminkan akulturasi budaya Lasem, Jawa Tengah.",
+    "Path Folder": "batik-lasem",
+    "Path Gambar": "batik-lasem.jpg"
+  },
+  {
+    "Nama": "Batik Megamendung",
+    "Deskripsi": "Batik Megamendung memiliki motif awan bergradasi dengan warna biru, putih, atau merah. Melambangkan kesejukan dan ketenangan, batik ini merupakan warisan budaya dari Cirebon, Jawa Barat.",
+    "Path Folder": "batik-megamendung",
+    "Path Gambar": "batik-megamendung.jpg"
+  },
+  {
+    "Nama": "Batik Parang",
+    "Deskripsi": "Batik Parang memiliki motif garis melengkung menyerupai ombak yang tersusun diagonal. Melambangkan perjuangan tanpa henti dan kekuatan, batik ini berasal dari keraton Yogyakarta dan Surakarta.",
+    "Path Folder": "batik-parang",
+    "Path Gambar": "batik-parang.jpg"
+  },
+  {
+    "Nama": "Batik Pekalongan",
+    "Deskripsi": "Batik Pekalongan memiliki pola flora dan fauna dengan warna cerah dan detail halus. Melambangkan kreativitas dan keindahan alam, batik ini mencerminkan budaya pesisir Pekalongan, Jawa Tengah.",
+    "Path Folder": "batik-pekalongan",
+    "Path Gambar": "batik-pekalongan.jpg"
+  },
+  {
+    "Nama": "Batik Priangan",
+    "Deskripsi": "Batik Priangan memiliki pola bunga kecil dan dedaunan dengan warna pastel seperti hijau dan merah muda. Melambangkan kelembutan dan kesederhanaan, batik ini khas Tasikmalaya, Jawa Barat.",
+    "Path Folder": "batik-priangan",
+    "Path Gambar": "batik-priangan.jpg"
+  },
+  {
+    "Nama": "Batik Sekar",
+    "Deskripsi": "Batik Sekar memiliki pola bunga yang indah dan elegan dengan warna cerah seperti merah dan kuning. Melambangkan kebahagiaan dan keharmonisan hidup, batik ini banyak ditemukan di Jawa.",
+    "Path Folder": "batik-sekar",
+    "Path Gambar": "batik-sekar.jpg"
+  },
+  {
+    "Nama": "Batik Sidoluhur",
+    "Deskripsi": "Batik Sidoluhur memiliki motif klasik dengan pola geometris yang anggun dan warna cokelat khas. Melambangkan harapan untuk kehidupan yang mulia, batik ini berasal dari Solo, Jawa Tengah.",
+    "Path Folder": "batik-sidoluhur",
+    "Path Gambar": "batik-sidoluhur.jpg"
+  },
+  {
+    "Nama": "Batik Sidomukti",
+    "Deskripsi": "Batik Sidomukti memiliki pola bunga dan geometris dengan warna dasar cokelat muda. Melambangkan kemakmuran dan kebahagiaan, batik ini berasal dari Yogyakarta dan Surakarta.",
+    "Path Folder": "batik-sidomukti",
+    "Path Gambar": "batik-sidomukti.jpg"
+  },
+  {
+    "Nama": "Batik Sogan",
+    "Deskripsi": "Batik Sogan memiliki pola klasik dengan warna cokelat sogan khas dan motif flora. Melambangkan kebijaksanaan dan keluhuran, batik ini merupakan warisan budaya dari Solo, Jawa Tengah.",
+    "Path Folder": "batik-sogan",
+    "Path Gambar": "batik-sogan.jpg"
+  },
+  {
+    "Nama": "Batik Tambal",
+    "Deskripsi": "Batik Tambal memiliki pola tambalan kecil-kecil dengan motif beragam dan warna cerah. Melambangkan perbaikan dan harapan, batik ini berasal dari Jawa Tengah dan Yogyakarta.",
+    "Path Folder": "batik-tambal",
+    "Path Gambar": "batik-tambal.jpg"
+  }
 ]
